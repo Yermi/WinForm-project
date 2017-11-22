@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Clients>
+  <Client>
+    <name>terach</name>
+    <ID>999546221</ID>
+    <Adress>ffufuf</Adress>
+    <DateOfBirth>08/02/1990 10:55:00</DateOfBirth>
+    <CardNumber>97897855</CardNumber>
+  </Client>
+</Clients>

@@ -1,0 +1,50 @@
+D:\Users\yermi\Desktop\פרויקט_2015\BL_WCFservice\bin\Debug\BL_WCFservice.dll.config
+D:\Users\yermi\Desktop\פרויקט_2015\BL_WCFservice\bin\Debug\BL_WCFservice.dll
+D:\Users\yermi\Desktop\פרויקט_2015\BL_WCFservice\bin\Debug\BL_WCFservice.pdb
+D:\Users\yermi\Desktop\פרויקט_2015\BL_WCFservice\bin\Debug\BE.dll
+D:\Users\yermi\Desktop\פרויקט_2015\BL_WCFservice\bin\Debug\DAL.dll
+D:\Users\yermi\Desktop\פרויקט_2015\BL_WCFservice\bin\Debug\BE.pdb
+D:\Users\yermi\Desktop\פרויקט_2015\BL_WCFservice\bin\Debug\DAL.pdb
+D:\Users\yermi\Desktop\פרויקט_2015\BL_WCFservice\obj\Debug\BL_WCFservice.csprojResolveAssemblyReference.cache
+D:\Users\yermi\Desktop\פרויקט_2015\BL_WCFservice\obj\Debug\BL_WCFservice.dll
+D:\Users\yermi\Desktop\פרויקט_2015\BL_WCFservice\obj\Debug\BL_WCFservice.pdb
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\BL_WCFservice\bin\Debug\BL_WCFservice.dll.config
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\BL_WCFservice\bin\Debug\BL_WCFservice.dll
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\BL_WCFservice\bin\Debug\BL_WCFservice.pdb
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\BL_WCFservice\bin\Debug\BE.dll
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\BL_WCFservice\bin\Debug\DAL.dll
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\BL_WCFservice\bin\Debug\BE.pdb
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\BL_WCFservice\bin\Debug\DAL.pdb
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\BL_WCFservice\obj\Debug\BL_WCFservice.csprojResolveAssemblyReference.cache
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\BL_WCFservice\obj\Debug\BL_WCFservice.dll
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\BL_WCFservice\obj\Debug\BL_WCFservice.pdb
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\BL_WCFservice\bin\Debug\BL_WCFservice.dll.config
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\BL_WCFservice\bin\Debug\BL_WCFservice.dll
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\BL_WCFservice\bin\Debug\BL_WCFservice.pdb
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\BL_WCFservice\bin\Debug\BE.dll
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\BL_WCFservice\bin\Debug\DAL.dll
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\BL_WCFservice\bin\Debug\BE.pdb
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\BL_WCFservice\bin\Debug\DAL.pdb
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\BL_WCFservice\obj\Debug\BL_WCFservice.csprojResolveAssemblyReference.cache
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\BL_WCFservice\obj\Debug\BL_WCFservice.dll
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\BL_WCFservice\obj\Debug\BL_WCFservice.pdb
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\BL_WCFservice\bin\Debug\BL_WCFservice.dll.config
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\BL_WCFservice\bin\Debug\BL_WCFservice.dll
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\BL_WCFservice\bin\Debug\BL_WCFservice.pdb
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\BL_WCFservice\bin\Debug\BE.dll
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\BL_WCFservice\bin\Debug\DAL.dll
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\BL_WCFservice\bin\Debug\BE.pdb
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\BL_WCFservice\bin\Debug\DAL.pdb
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\BL_WCFservice\obj\Debug\BL_WCFservice.csprojResolveAssemblyReference.cache
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\BL_WCFservice\obj\Debug\BL_WCFservice.dll
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\BL_WCFservice\obj\Debug\BL_WCFservice.pdb
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\BL_WCFservice\bin\Debug\BL_WCFservice.dll.config
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\BL_WCFservice\bin\Debug\BL_WCFservice.dll
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\BL_WCFservice\bin\Debug\BL_WCFservice.pdb
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\BL_WCFservice\bin\Debug\BE.dll
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\BL_WCFservice\bin\Debug\DAL.dll
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\BL_WCFservice\bin\Debug\BE.pdb
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\BL_WCFservice\bin\Debug\DAL.pdb
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\BL_WCFservice\obj\Debug\BL_WCFservice.csprojResolveAssemblyReference.cache
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\BL_WCFservice\obj\Debug\BL_WCFservice.dll
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\BL_WCFservice\obj\Debug\BL_WCFservice.pdb
