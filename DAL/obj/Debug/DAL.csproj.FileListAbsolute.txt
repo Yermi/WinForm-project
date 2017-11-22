@@ -1,0 +1,64 @@
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט 2015\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט 2015\DAL\bin\Debug\DAL.dll
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט 2015\DAL\bin\Debug\DAL.pdb
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט 2015\DAL\bin\Debug\BE.dll
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט 2015\DAL\bin\Debug\BE.pdb
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט 2015\DAL\obj\Debug\DAL.dll
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט 2015\DAL\obj\Debug\DAL.pdb
+C:\Users\student\Desktop\תיקיה חדשה\DAL\bin\Debug\DAL.dll
+C:\Users\student\Desktop\תיקיה חדשה\DAL\bin\Debug\DAL.pdb
+C:\Users\student\Desktop\תיקיה חדשה\DAL\bin\Debug\BE.dll
+C:\Users\student\Desktop\תיקיה חדשה\DAL\bin\Debug\BE.pdb
+C:\Users\student\Desktop\תיקיה חדשה\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\תיקיה חדשה\DAL\obj\Debug\DAL.dll
+C:\Users\student\Desktop\תיקיה חדשה\DAL\obj\Debug\DAL.pdb
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\DAL\bin\Debug\DAL.dll
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\DAL\bin\Debug\DAL.pdb
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\DAL\bin\Debug\BE.dll
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\DAL\bin\Debug\BE.pdb
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\DAL\obj\Debug\DAL.dll
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\DAL\obj\Debug\DAL.pdb
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\DAL\bin\Debug\DAL.dll
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\DAL\bin\Debug\DAL.pdb
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\DAL\bin\Debug\BE.dll
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\DAL\bin\Debug\BE.pdb
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\DAL\obj\Debug\DAL.dll
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\DAL\obj\Debug\DAL.pdb
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\DAL\bin\Debug\DAL.dll
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\DAL\bin\Debug\DAL.pdb
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\DAL\bin\Debug\BE.dll
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\DAL\bin\Debug\BE.pdb
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\DAL\obj\Debug\DAL.dll
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\DAL\obj\Debug\DAL.pdb
+D:\Users\yermi\Desktop\פרויקט_2015\DAL\bin\Debug\DAL.dll
+D:\Users\yermi\Desktop\פרויקט_2015\DAL\bin\Debug\DAL.pdb
+D:\Users\yermi\Desktop\פרויקט_2015\DAL\bin\Debug\BE.dll
+D:\Users\yermi\Desktop\פרויקט_2015\DAL\bin\Debug\BE.pdb
+D:\Users\yermi\Desktop\פרויקט_2015\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Users\yermi\Desktop\פרויקט_2015\DAL\obj\Debug\DAL.dll
+D:\Users\yermi\Desktop\פרויקט_2015\DAL\obj\Debug\DAL.pdb
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\DAL\bin\Debug\DAL.dll
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\DAL\bin\Debug\DAL.pdb
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\DAL\bin\Debug\BE.dll
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\DAL\bin\Debug\BE.pdb
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\DAL\obj\Debug\DAL.dll
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\DAL\obj\Debug\DAL.pdb
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\DAL\bin\Debug\DAL.dll
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\DAL\bin\Debug\DAL.pdb
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\DAL\bin\Debug\BE.dll
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\DAL\bin\Debug\BE.pdb
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\DAL\obj\Debug\DAL.dll
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\DAL\obj\Debug\DAL.pdb
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\DAL\bin\Debug\DAL.dll
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\DAL\bin\Debug\DAL.pdb
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\DAL\bin\Debug\BE.dll
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\DAL\bin\Debug\BE.pdb
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\DAL\obj\Debug\DAL.dll
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\DAL\obj\Debug\DAL.pdb
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
