@@ -1,0 +1,210 @@
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\PLForms.exe.config
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.MainForm.resources
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\PLForms.exe
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\PLForms.pdb
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\BE.dll
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\BL.dll
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\DAL.dll
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\BE.pdb
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\BL.pdb
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\DAL.pdb
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.exe
+E:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.pdb
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\PLForms.exe.config
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.exe
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.pdb
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.MainForm.resources
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\PLForms.exe
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\PLForms.pdb
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\BE.dll
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\BL.dll
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\DAL.dll
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\BE.pdb
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\BL.pdb
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\DAL.pdb
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.choiceForClient.resources
+H:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.client.resources
+G:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\PLForms.exe.config
+G:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.exe
+G:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.pdb
+G:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\PLForms.exe
+G:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\PLForms.pdb
+G:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\BE.dll
+G:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\BL.dll
+G:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\DAL.dll
+G:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\BE.pdb
+G:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\BL.pdb
+G:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\DAL.pdb
+G:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+G:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.choiceForClient.resources
+G:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.client.resources
+G:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.MainForm.resources
+G:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+G:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\PLForms.exe.config
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.exe
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.pdb
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\PLForms.exe
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\PLForms.pdb
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\BE.dll
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\BL.dll
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\DAL.dll
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\BE.pdb
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\BL.pdb
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\bin\Debug\DAL.pdb
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.choiceForClient.resources
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.MainForm.resources
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.ChiceForCars.resources
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.help.resources
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.choiceForRentings.resources
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.CarsForm.resources
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.clientForm.resources
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.RentigsForm.resources
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.management.resources
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.choiceForFaults.resources
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.FaultsFrom.resources
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\פרויקט_2015\PLForms\obj\Debug\PLForms.DataGrid.resources
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\bin\Debug\PLForms.exe.config
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\obj\Debug\PLForms.exe
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\obj\Debug\PLForms.pdb
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\bin\Debug\PLForms.exe
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\bin\Debug\PLForms.pdb
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\bin\Debug\BE.dll
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\bin\Debug\BL.dll
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\bin\Debug\DAL.dll
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\bin\Debug\BE.pdb
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\bin\Debug\BL.pdb
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\bin\Debug\DAL.pdb
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\obj\Debug\PLForms.CarsForm.resources
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\obj\Debug\PLForms.ChiceForCars.resources
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\obj\Debug\PLForms.choiceForClient.resources
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\obj\Debug\PLForms.choiceForRentings.resources
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\obj\Debug\PLForms.clientForm.resources
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\obj\Debug\PLForms.choiceForFaults.resources
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\obj\Debug\PLForms.DataGrid.resources
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\obj\Debug\PLForms.FaultsFrom.resources
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\obj\Debug\PLForms.help.resources
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\obj\Debug\PLForms.MainForm.resources
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\obj\Debug\PLForms.management.resources
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\obj\Debug\PLForms.RentigsForm.resources
+D:\Users\yermi\Desktop\פרויקט_2015\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\PLForms.exe.config
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.exe
+D:\לימודים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.pdb
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\PLForms.exe.config
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.exe
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.pdb
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\PLForms.exe
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\PLForms.pdb
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\BE.dll
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\BL.dll
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\DAL.dll
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\BE.pdb
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\BL.pdb
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\DAL.pdb
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.CarsForm.resources
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.ChiceForCars.resources
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.choiceForClient.resources
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.choiceForRentings.resources
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.clientForm.resources
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.choiceForFaults.resources
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.DataGrid.resources
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.FaultsFrom.resources
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.help.resources
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.MainForm.resources
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.management.resources
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.RentigsForm.resources
+D:\Users\yermi\Desktop\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\PLForms.exe.config
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.exe
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.pdb
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\PLForms.exe
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\PLForms.pdb
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\BE.dll
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\BL.dll
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\DAL.dll
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\BE.pdb
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\BL.pdb
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\DAL.pdb
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.CarsForm.resources
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.ChiceForCars.resources
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.choiceForClient.resources
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.choiceForRentings.resources
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.clientForm.resources
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.choiceForFaults.resources
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.DataGrid.resources
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.FaultsFrom.resources
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.help.resources
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.MainForm.resources
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.management.resources
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.RentigsForm.resources
+D:\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\PLForms.exe.config
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.exe
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.pdb
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\PLForms.exe
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\PLForms.pdb
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\BE.dll
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\BL.dll
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\DAL.dll
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\BE.pdb
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\BL.pdb
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\bin\Debug\DAL.pdb
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.CarsForm.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.ChiceForCars.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.choiceForClient.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.choiceForRentings.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.clientForm.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.choiceForFaults.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.DataGrid.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.FaultsFrom.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.help.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.MainForm.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.management.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.RentigsForm.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\dotNet5775_Project03_8788_5115\PLForms\obj\Debug\PLForms.csproj.CoreCompileInputs.cache
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\bin\Debug\PLForms.exe.config
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\bin\Debug\PLForms.exe
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\bin\Debug\PLForms.pdb
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\bin\Debug\BE.dll
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\bin\Debug\BL.dll
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\bin\Debug\DAL.dll
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\bin\Debug\BE.pdb
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\bin\Debug\BL.pdb
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\bin\Debug\DAL.pdb
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\obj\Debug\PLForms.csprojResolveAssemblyReference.cache
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\obj\Debug\PLForms.CarsForm.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\obj\Debug\PLForms.ChiceForCars.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\obj\Debug\PLForms.choiceForClient.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\obj\Debug\PLForms.choiceForRentings.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\obj\Debug\PLForms.clientForm.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\obj\Debug\PLForms.choiceForFaults.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\obj\Debug\PLForms.DataGrid.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\obj\Debug\PLForms.FaultsFrom.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\obj\Debug\PLForms.help.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\obj\Debug\PLForms.MainForm.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\obj\Debug\PLForms.management.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\obj\Debug\PLForms.Properties.Resources.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\obj\Debug\PLForms.RentigsForm.resources
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\obj\Debug\PLForms.csproj.GenerateResource.Cache
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\obj\Debug\PLForms.csproj.CoreCompileInputs.cache
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\obj\Debug\PLForms.exe
+C:\Users\YER\Documents\לימודים\קורסים\מיני פרויקט במערכת חלונות - C#\מיני פרויקט\Rent-A-Car\PLForms\obj\Debug\PLForms.pdb

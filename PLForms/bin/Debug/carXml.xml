@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+  <Car>
+    <License>2222355</License>
+    <typeOfCar>
+      <Manufacturer>Subaro</Manufacturer>
+      <Model>1979</Model>
+      <Enginee>1200</Enginee>
+    </typeOfCar>
+    <Doors>3</Doors>
+    <Faults />
+    <KM>220000</KM>
+    <Passengers>5</Passengers>
+    <TypeOfGear>Manual</TypeOfGear>
+    <dateOfProduction>21/06/1979 17:05:52</dateOfProduction>
+    <Branch>Ashdod</Branch>
+  </Car>
+  <Car>
+    <License>6851798</License>
+    <typeOfCar>
+      <Manufacturer>Honda</Manufacturer>
+      <Model>civic</Model>
+      <Enginee>500</Enginee>
+    </typeOfCar>
+    <Doors>4</Doors>
+    <Faults />
+    <KM>0</KM>
+    <Passengers>5</Passengers>
+    <TypeOfGear>Auto</TypeOfGear>
+    <dateOfProduction>22/02/2016 16:16:24</dateOfProduction>
+    <Branch>Herzliya</Branch>
+  </Car>
+  <Car>
+    <License>9458742</License>
+    <typeOfCar>
+      <Manufacturer>Audi</Manufacturer>
+      <Model>A5</Model>
+      <Enginee>500</Enginee>
+    </typeOfCar>
+    <Doors>4</Doors>
+    <Faults />
+    <KM>0</KM>
+    <Passengers>5</Passengers>
+    <TypeOfGear>Auto</TypeOfGear>
+    <dateOfProduction>01/03/2016 13:57:15</dateOfProduction>
+    <Branch>Ashdod</Branch>
+  </Car>
+</Cars>

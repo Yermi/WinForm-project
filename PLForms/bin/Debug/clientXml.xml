@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Clients>
+  <Client>
+    <name>Yermi Tesler</name>
+    <ID>203225115</ID>
+    <Adress>Damesek Eliezer 45, Bnei-brak</Adress>
+    <DateOfBirth>01/08/1991 18:55:11</DateOfBirth>
+    <CardNumber>84448474</CardNumber>
+  </Client>
+  <Client>
+    <name>Margalit Tesler</name>
+    <ID>302887203</ID>
+    <Adress>Damesek Eliezer 45, Bnei-brak</Adress>
+    <DateOfBirth>26/11/1989 19:09:29</DateOfBirth>
+    <CardNumber>56159845</CardNumber>
+  </Client>
+  <Client>
+    <name>Moshe Itzkovitz</name>
+    <ID>204046048</ID>
+    <Adress>mmm</Adress>
+    <DateOfBirth>23/02/1983 22:48:27</DateOfBirth>
+    <CardNumber>32145688</CardNumber>
+  </Client>
+  <Client>
+    <name>Avraham Mordechai Vainberg</name>
+    <ID>301629648</ID>
+    <Adress>Yeuda H'anasi 28, Elad</Adress>
+    <DateOfBirth>14/12/1988 13:58:52</DateOfBirth>
+    <CardNumber>45614567</CardNumber>
+  </Client>
+  <Client>
+    <name>Donald Trump</name>
+    <ID>132546779</ID>
+    <Adress>Washington D. C., USA</Adress>
+    <DateOfBirth>20/06/1960 21:47:48</DateOfBirth>
+    <CardNumber>13467925</CardNumber>
+  </Client>
+</Clients>

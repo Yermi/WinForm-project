@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Renting>
+  <Renting>
+    <Booking>204342</Booking>
+    <start>02/11/2015 18:56:53</start>
+    <end>02/11/2015 18:56:53</end>
+    <Drivers>
+      <main_driver_id>203225115</main_driver_id>
+      <main_driver_name>Yermi Tesler</main_driver_name>
+      <secend_driver_id>999999999</secend_driver_id>
+      <secend_driver_name>null</secend_driver_name>
+    </Drivers>
+    <carLicense>1234564</carLicense>
+    <numOfdrivers>0</numOfdrivers>
+    <KM_start>678</KM_start>
+    <KM_end>778</KM_end>
+    <total_KM>100</total_KM>
+    <status_of_renting>end</status_of_renting>
+    <fault>false</fault>
+    <price>20</price>
+  </Renting>
+  <Renting>
+    <Booking>434278</Booking>
+    <start>03/03/2016 13:14:31</start>
+    <end>05/03/2016 13:14:31</end>
+    <Drivers>
+      <main_driver_id>301629648</main_driver_id>
+      <main_driver_name>Avraham Mordechai Vainberg</main_driver_name>
+      <secend_driver_id>999999999</secend_driver_id>
+      <secend_driver_name>null</secend_driver_name>
+    </Drivers>
+    <carLicense>6851798</carLicense>
+    <numOfdrivers>1</numOfdrivers>
+    <KM_start>0</KM_start>
+    <KM_end>0</KM_end>
+    <total_KM>0</total_KM>
+    <status_of_renting>Ongoing</status_of_renting>
+    <fault>false</fault>
+    <price>0</price>
+  </Renting>
+  <Renting>
+    <Booking>640175</Booking>
+    <start>28/09/2017 02:15:54</start>
+    <end>30/09/2017 02:15:54</end>
+    <Drivers>
+      <main_driver_id>204046048</main_driver_id>
+      <main_driver_name>Moshe Itzkovitz</main_driver_name>
+      <secend_driver_id>301629648</secend_driver_id>
+      <secend_driver_name>Avraham Mordechai Vainberg</secend_driver_name>
+    </Drivers>
+    <carLicense>2222355</carLicense>
+    <numOfdrivers>2</numOfdrivers>
+    <KM_start>220000</KM_start>
+    <KM_end>0</KM_end>
+    <total_KM>0</total_KM>
+    <status_of_renting>Ongoing</status_of_renting>
+    <fault>false</fault>
+    <price>0</price>
+  </Renting>
+</Renting>
