@@ -19,7 +19,7 @@ namespace BL
         }
 
         public float profit { get; set; }
-        idal dal = new DAL_imp_XML();
+        idal dal;
 
         // add client
         public void addClient(Client client)
